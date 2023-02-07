@@ -4,7 +4,7 @@
     * @description Prevents Discord from switching to a new added audio source.
     * @updateUrl 
     * @website 
-    * @version 0.0.1
+    * @version 0.0.2
     */
 
 const request = require("request");
